@@ -1,2 +1,3 @@
 # DroneDemo
-Quad Copter Simulator
+Quad Copter Simulator for training purposes
+
